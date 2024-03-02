@@ -1,4 +1,4 @@
-# net-bot
+# network-bot
 
 telegram bot at aiogram3\
 scans network by python-nmap, and store devices at SQLite\

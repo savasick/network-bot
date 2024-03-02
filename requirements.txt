@@ -1,0 +1,5 @@
+python-nmap
+requests
+aiogram
+pydantic
+pydantic-settings

@@ -1,0 +1,5 @@
+/0test-soft
+/venv
+/bot/__pycache__
+.env
+net_devs.db
